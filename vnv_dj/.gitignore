@@ -1,0 +1,7 @@
+# created by virtualenv automatically
+*.pyc
+*~
+/vnv_dj
+__pycache__
+booking_db
+.DS_Store
