@@ -136,6 +136,8 @@ SWAGGER_SETTINGS = {
             'type':'apiKey',
             'name':'Authorization',
             'in':'header',
-        }
-    }
+        },
+    },
+    "LOGIN_URL":"/admin/login/",
+    "LOGOUT_URL":"/admin/logout/"
 }
